@@ -1,0 +1,38 @@
+.i{
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.q{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+width: 350px;
+}
+.pari{
+    display: flex;
+}
+.o{
+    background-color: blueviolet;
+    display: flex;
+    
+
+}
+.j{
+display: flex;
+    justify-content: space-between;
+
+}
+
+
+.main {
+    background-color: blueviolet;
+    width: 15em;
+    padding: 15px;
+}
+.z{
+    display: flex;
+    justify-content:space-evenly;
+
+
+}
